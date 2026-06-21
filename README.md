@@ -1,4 +1,4 @@
-# UMR_Momentum
+# Momentum LLC Selection Keras Algorithm
 
 - - -
 
